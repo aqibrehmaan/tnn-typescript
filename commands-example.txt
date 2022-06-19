@@ -1,0 +1,15 @@
+// Compile
+
+tsc src/sandbox.tsc
+
+// Watch 
+
+tsc --watch
+
+// For single file 
+
+tsc filename --watch
+
+// Create Configuration 
+
+tsc --init
